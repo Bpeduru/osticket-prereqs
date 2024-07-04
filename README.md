@@ -49,7 +49,7 @@ HeidiSQL
 
 </p>
 <p>
-Went into control panel, Enabled internet information Services,CGI and common http features. IIS is the webserver thstg OSticket will be running on. 
+Went into control panel, Enabled internet information Services, CGI and common http features. IIS is the webserver thstg OSticket will be running on. 
 </p>
 <br />
 
@@ -77,19 +77,19 @@ Opened IIS as an admin and registered PHP within IIS.
 
 <img width="846" alt="image" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7f43fb1a-b37a-4471-a1c2-d37adec58a9a">
 
-Copied contents of OS ticket "Upload" file into the www.root folder  within C: Drive. This is the web servers main folder. Renamed the file to "OsTicket".
+Copied contents of OS ticket "Upload" file into the www.root folder  within C: Drive. This is the web servers main folder. Renamed the file to "osTicket".
 
 ![l](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7381f72d-819b-4a0c-8287-92aa26e7d16e)
 
-Went back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enabled required extensions
+went back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enabled required extensions
 
 <img width="944" alt="Screen Shot 2024-07-04 at 2 33 23 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ffa337f5-5563-44cb-a87d-55297de2c9ce">
 
-Went into HeidiSQL and created a new connection to the MySQL Server. Also created a new database called OSticket. 
+opened into HeidiSQL and created a new connection to the MySQL Server. Also created a new database called OSticket. 
 
 ![g](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/2fb43fb7-32e5-43d5-823d-eeab238dff74)
 
-Finihed setting up OSticket on the browser. Created credentials and entered credentials for MySQl Database. After the installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
+Finished installing OSticket on the browser. I Created credentials and entered the credentials for the MySQl Database. After the installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
 
 
 
