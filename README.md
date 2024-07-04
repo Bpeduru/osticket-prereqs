@@ -63,9 +63,7 @@ Downloaded and installed all of the prerequisite files needed to run the ticketi
 <br />
 
 <p>
-<<img width="658" alt="Screen Shot 2024-07-04 at 1 59 52 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/6fc6b027-89cc-4ac3-b1a9-f8200ddf95e7">
 <img width="651" alt="Screen Shot 2024-07-04 at 2 00 09 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/9c68bdbd-0f11-425c-9e88-cc9a11dc9e9a">
-
 
 </p>
 <p>
