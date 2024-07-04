@@ -84,6 +84,7 @@ Copied contents of OS ticket "Upload" file into the www.root folder  within C: D
 
 went back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enabled required extensions
 
+
 <img width="1080" alt="Screen Shot 2024-07-04 at 2 48 43 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/aa5a4aff-edf1-40cd-9ca3-1e417d2432ae">
 
 
