@@ -70,6 +70,10 @@ Downloaded and installed all of the prerequisite files needed to run the ticketi
 Created a PHP directory within the C: Drive, and extracted contents of PHP 7.3.8 into it. 
 </p>
 <br />
-<img width="890" alt="Screen Shot 2024-07-04 at 2 11 50 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ccf65bc2-92e4-4321-b338-77ae77d59ce7">
+<img width="1070" alt="Screen Shot 2024-07-04 at 2 16 14 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ab883fa7-206e-443f-8a6f-866523dd6285">
+
 
 Opened IIS as an admin and registered PHP within IIS. 
+
+<img width="846" alt="image" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7f43fb1a-b37a-4471-a1c2-d37adec58a9a">
+
