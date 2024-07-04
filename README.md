@@ -89,7 +89,7 @@ Went into HeidiSQL and created a new connection to the MySQL Server. Also create
 
 ![g](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/2fb43fb7-32e5-43d5-823d-eeab238dff74)
 
-Finihed setting up Os ticket on the browser. Created credentials and entered credentials for MySQl Database. After installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
+Finihed setting up OSticket on the browser. Created credentials and entered credentials for MySQl Database. After the installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
 
 
 
