@@ -93,7 +93,7 @@ went back to Internet Information Services --> PHP manager --> Enable or Disable
 <img width="1080" alt="Screen Shot 2024-07-04 at 2 48 43 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/aa5a4aff-edf1-40cd-9ca3-1e417d2432ae">
 
 
-Changed name of ost-sampleconfig.php to ost-config.php, then changed the permission so that any user has full control. This is because the OSticket intsaller is going to maniuplate this file, and we do not know which user it's goign to use to do that. 
+Changed name of ost-sampleconfig.php to ost-config.php, then changed the permissions so that any user has full control. This is because the OSticket installer is going to manipulate this file, and we do not know which user it's going to use to do that. 
 
 
 <img width="944" alt="Screen Shot 2024-07-04 at 2 33 23 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ffa337f5-5563-44cb-a87d-55297de2c9ce">
@@ -102,7 +102,7 @@ opened into HeidiSQL and created a new connection to the MySQL Server. Also crea
 
 ![g](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/2fb43fb7-32e5-43d5-823d-eeab238dff74)
 
-Finished installing OSticket on the browser. I Created credentials and entered the credentials for the MySQl Database. After the installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
+Finished installing OSticket on the browser. I created credentials and entered the credentials for the MySQl Database. After the installation was successful, I went back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
 
 
 
