@@ -25,7 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Internet Information Services (IIS)
 
   -CGI
+  
   -Common HTTP Features
+  
   -IIS Management Console
 PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
