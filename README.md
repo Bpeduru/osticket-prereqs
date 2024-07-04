@@ -81,7 +81,14 @@ Copied contents of OS ticket "Upload" file into the www.root folder  within C: D
 
 ![l](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7381f72d-819b-4a0c-8287-92aa26e7d16e)
 
+
 went back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enabled required extensions
+
+<img width="1080" alt="Screen Shot 2024-07-04 at 2 48 43 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/aa5a4aff-edf1-40cd-9ca3-1e417d2432ae">
+
+
+Changed name of ost-sampleconfig.php to ost-config.php, then changed the permission so that any user has full control. This is because the OSticket intsaller is going to maniuplate this file, and we do not know which user it's goign to use to do that. 
+
 
 <img width="944" alt="Screen Shot 2024-07-04 at 2 33 23 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ffa337f5-5563-44cb-a87d-55297de2c9ce">
 
