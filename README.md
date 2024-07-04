@@ -63,9 +63,12 @@ Downloaded and installed all of the prerequisite files needed to run the ticketi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="658" alt="Screen Shot 2024-07-04 at 1 59 52 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/6fc6b027-89cc-4ac3-b1a9-f8200ddf95e7">
+<img width="651" alt="Screen Shot 2024-07-04 at 2 00 09 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/9c68bdbd-0f11-425c-9e88-cc9a11dc9e9a">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a PHP directory within the C: Drive, and extracted contents of PHP 7.3.8 into it. 
 </p>
 <br />
