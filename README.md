@@ -44,7 +44,7 @@ HeidiSQL
 <h2>Installation Steps</h2>
 
 <p>
-![Capture](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/8e69478b-7cef-4cde-9629-02ab921cdc8e)
+<![Capture](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/8e69478b-7cef-4cde-9629-02ab921cdc8e)>
 
 </p>
 <p>
@@ -53,7 +53,7 @@ Went into control panel, Enabled internet information Services,CGI and common ht
 <br />
 
 <p>
-<<img width="369" alt="Screen Shot 2024-07-04 at 1 44 28 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/888554f6-f11f-460d-adba-ce50ffde36d9">
+<img width="369" alt="Screen Shot 2024-07-04 at 1 44 28 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/888554f6-f11f-460d-adba-ce50ffde36d9">
 >
 </p>
 <p>
