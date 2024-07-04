@@ -49,7 +49,7 @@ HeidiSQL
 
 </p>
 <p>
-Went into control panel, Enabled internet information Services, CGI and common http features. IIS is the webserver thstg OSticket will be running on. 
+Went into control panel, Enabled internet information Services, CGI and common http features. IIS is the webserver that OSticket will be running on. 
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Opened IIS as an admin and registered PHP within IIS.
 </p>
 </p>
 
-Copied contents of OS ticket "Upload" file into the www.root folder  within C: Drive. This is the web servers main folder. Renamed the file to "osTicket".
+Copied contents of OS ticket "Upload" file into the www.root folder  within C: Drive. This is the web server's main folder. Renamed the file to "osTicket".
 
 
 
