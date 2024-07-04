@@ -55,7 +55,7 @@ Went into control panel, Enabled internet information Services,CGI and common ht
 
 <p>
 <img width="369" alt="Screen Shot 2024-07-04 at 1 44 28 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/888554f6-f11f-460d-adba-ce50ffde36d9">
->
+
 </p>
 <p>
 Downloaded and installed all of the prerequisite files needed to run the ticketing software.
