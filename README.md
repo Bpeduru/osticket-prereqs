@@ -77,3 +77,7 @@ Opened IIS as an admin and registered PHP within IIS.
 
 <img width="846" alt="image" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7f43fb1a-b37a-4471-a1c2-d37adec58a9a">
 
+Copied contents of OS ticket "Upload" file into the www.root folder  within C: Drive. This is the web servers main folder. Renamed the file to "OsTicket".
+
+
+
