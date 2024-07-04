@@ -44,7 +44,7 @@ HeidiSQL
 <h2>Installation Steps</h2>
 
 <p>
-<img width="468" alt="Screen Shot 2024-07-04 at 1 47 31 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/1bf84327-0832-476d-8285-c3eccdc5f923">
+<img width="468" alt="Screen Shot 2024-07-04 at 1 47 31 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/1bf84327-0832-476d-8285-c3eccdc5f923"
 
 
 </p>
