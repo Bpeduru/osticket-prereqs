@@ -49,7 +49,7 @@ HeidiSQL
 
 </p>
 <p>
-Went into control panel, Enabled internet information Services, CGI and common http features. IIS is the webserver that OSticket will be running on. 
+Create and log onto a virtual machine in Micorsoft Azure, then opened control panel, enabled internet information Services, CGI and common http features. IIS is the webserver that OSticket will be running on. 
 </p>
 <br />
 
