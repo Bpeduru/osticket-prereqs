@@ -103,7 +103,7 @@ open HeidiSQL and create a new connection to the MySQL Server. Also create a new
 
 ![g](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/2fb43fb7-32e5-43d5-823d-eeab238dff74)
 
-Finish installing OSticket on the browser. I created credentials and entered the credentials for the MySQl Database. After the installation was successful, go back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
+Finish installing OsTicket on the browser. I created credentials and entered the credentials for the MySQl Database. After the installation was successful, go back and deleted the setup folder within C:\inetpub\wwwroot\osTicket to cleanup. 
 
 
 
