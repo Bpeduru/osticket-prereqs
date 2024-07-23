@@ -73,12 +73,12 @@ Create a PHP directory within the C: Drive, and extract contents of PHP 7.3.8 in
 <img width="1070" alt="Screen Shot 2024-07-04 at 2 16 14 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ab883fa7-206e-443f-8a6f-866523dd6285">
 </p>
 </p>
-</p>
+<br />
 Open IIS as an admin and registered PHP within IIS. 
+<br />
 </p>
 </p>
-</p>
-</p>
+
 <img width="846" alt="image" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7f43fb1a-b37a-4471-a1c2-d37adec58a9a">
 </p>
 </p>
