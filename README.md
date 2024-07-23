@@ -73,7 +73,10 @@ Create a PHP directory within the C: Drive, and extract contents of PHP 7.3.8 in
 <img width="1070" alt="Screen Shot 2024-07-04 at 2 16 14 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/ab883fa7-206e-443f-8a6f-866523dd6285">
 </p>
 </p>
+</p>
 Open IIS as an admin and registered PHP within IIS. 
+</p>
+</p>
 </p>
 </p>
 <img width="846" alt="image" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7f43fb1a-b37a-4471-a1c2-d37adec58a9a">
@@ -87,7 +90,7 @@ Copy contents of OS ticket "Upload" file into the www.root folder within C: Driv
 ![l](https://github.com/Bpeduru/osticket-prereqs/assets/171273980/7381f72d-819b-4a0c-8287-92aa26e7d16e)
 
 
-go back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enable required extensions
+Go back to Internet Information Services --> PHP manager --> Enable or Disable an extension, and enable required extensions
 
 
 <img width="1080" alt="Screen Shot 2024-07-04 at 2 48 43 PM" src="https://github.com/Bpeduru/osticket-prereqs/assets/171273980/aa5a4aff-edf1-40cd-9ca3-1e417d2432ae">
